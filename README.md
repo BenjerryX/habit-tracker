@@ -28,7 +28,7 @@ This Habit Tracker is a Python-based CLI application designed to help users crea
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/BenjerryX/habit-tracker.git
     cd New\ Habit\ tracker\ Project/src
     ```
 2. (Optional) Create a virtual environment:
